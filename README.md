@@ -11,3 +11,6 @@ $ cargo run
 ```
 $ cargo doc --open
 ```
+
+# guessing game
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
