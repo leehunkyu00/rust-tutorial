@@ -14,3 +14,7 @@ $ cargo doc --open
 
 # guessing game
 https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+
+
+# rust korea document
+https://rinthel.github.io/rust-lang-book-ko/foreword.html
